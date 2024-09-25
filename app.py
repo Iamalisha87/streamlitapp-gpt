@@ -13,7 +13,7 @@ st.set_page_config(page_title="Campus Event Campaigner", page_icon="📅", layou
 
 # --- SIDEBAR ---
 with st.sidebar:
-    st.image("https://via.placeholder.com/150", caption="SPJIMR Logo")  # Add your organization logo here
+    st.image("https://www.spjimr.org/wp-content/uploads/2023/08/220428-SPJIMR-Positive-Identity-CMYK.png")  # Add your organization logo here
     st.title("Event Campaign Generator")
     st.markdown("Create impactful campaign invitations for your club events.")
     st.markdown("---")
